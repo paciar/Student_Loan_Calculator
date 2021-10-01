@@ -99,5 +99,4 @@
         android:text="@string/numPayments"
         android:gravity="left"
         android:textSize="20dp" />
-
 </RelativeLayout>
