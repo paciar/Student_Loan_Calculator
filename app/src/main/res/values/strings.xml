@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Loan Calculator</string>
+    <string name="calculate_button">Calculate</string>
+
+    <string name="editLoanAmt"><font size="15">Enter your loan amount</font></string>
+    <string name="editIntRate"><font size="15">Enter your interest rate</font></string>
+    <string name="editMinPayment"><font size="15">Enter the minimum payment</font></string>
+    <string name="editLoanTerm"><font size="15">Enter your loan term in years</font></string>
+
+    <string name="monthlyPayment"><font size="20">Monthly payment:</font></string>
+    <string name="totalInterest"><font size="20">Total interest:</font></string>
+    <string name="numPayments"><font size="20"># of payments:</font></string>
+</resources>
